@@ -94,7 +94,7 @@ button {
   /* add shodow to all buttons */
   box-shadow: 5px 5px 5px var(--clr-accent-300);
 
-  color: var(--clr-accent-200);
+  color: var(--clr-primary-500);
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;

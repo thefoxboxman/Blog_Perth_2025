@@ -102,12 +102,12 @@ select {
 /* Universal Selctor */
 * {
 	/* Colours */
-	--clr-accent-100: hsl(347, 57%, 79%); /* #E8AAB7 */
-	--clr-accent-200: hsl(15, 68%, 53%); /* #D95F36 */
-	--clr-accent-300: hsl(312, 17%, 54%); /* #9D7695 */
+	--clr-accent-100: hsl(36, 100%, 86%); /* #ffe2b6*/
+	--clr-accent-200: hsl(42, 100%, 47%); /* #F2A900 */
+	--clr-accent-300: hsl(219, 100%, 26%); /* #003087 */
 
-	--clr-primary-400: hsl(2, 33%, 77%); /* #D7B1B0 */
-	--clr-primary-500: hsl(352, 38%, 60%); /* #C0727D */
+	--clr-primary-400: hsl(37, 97%, 71%); /* #fdc66e */
+	--clr-primary-500: hsl(237, 30%, 55%); /* #6a6daf */
 
 	--clr-neutral-100: hsl(45,29%,97%); /* #FAF9F6 */
 	--clr-neutral-900: hsl(200,30%,8%); /* #0E161A */
@@ -125,13 +125,13 @@ h1 {
 	font-family: var(--ff-featured);
 	font-size: var(--s3);
 	font-weight:700;
-	color: var(--clr-accent-200);
+	color: var(--clr-accent-300);
 }
 
 h2 {
 	font-family: var(--ff-featured);
 	font-size: var(--s2);
-	color: var(--clr-accent-200);
+	color: var(--clr-primary-500);
 }
 h3 {
 	font-family: var(--ff-featured);

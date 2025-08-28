@@ -2,7 +2,7 @@
 Auto deploys from Github repo.
 
 Project URL:
-https://roaming-wa-2025.netlify.app
+https://perth-wa-2025.netlify.app/
 
 
 
@@ -11,5 +11,5 @@ https://roaming-wa-2025.netlify.app
 
 
 Netlify Badge
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e50c96f4-ca19-4bdc-95b2-735057392615/deploy-status)](https://app.netlify.com/projects/roaming-wa-2025/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/75a2907d-6519-48ad-b92b-16524620f213/deploy-status)](https://app.netlify.com/projects/perth-wa-2025/deploys)
 
